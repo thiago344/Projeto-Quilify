@@ -1,6 +1,6 @@
 package tabelasBD;
 
-public class TabelaUsuario {
+public class Usuario {
 		private int idUsuario;
 		private String nomeUsuario;
 		private int cpfUsuario;

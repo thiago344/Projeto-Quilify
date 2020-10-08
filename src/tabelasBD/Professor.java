@@ -1,7 +1,7 @@
 package tabelasBD;
 
 
-	public class TabelaProf {
+	public class Professor {
 		private int idProf;
 		private String nomeProf;
 		private int cpfProf;
